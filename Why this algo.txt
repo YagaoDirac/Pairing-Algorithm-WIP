@@ -1,0 +1,9 @@
+Go https://www.nowcoder.com/
+then, see the mark in the image file? Click the 3 buttons from top.
+In the OJ system, find HJ28, this code is for that question. But don't use my version is you have choices. 
+
+My version is for general cases, but this HJ28 is very special and should be done with dedicated algo.
+
+
+Now, my algo is super slow because this problem maybe naturally super slow.
+So, how far can I push it to?
